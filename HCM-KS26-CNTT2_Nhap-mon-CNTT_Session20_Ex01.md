@@ -16,13 +16,18 @@ site:developer.mozilla.org html cơ bản -ads -forum
 
 Toán tử site:
 Cú pháp: site: ví dụ (site:developer.mozilla.org)
-Ý nghĩa:Khoanh vùng và ép máychỉ tìm kiếm và trả kết quả dữ liệu bên trong một tên miền được chỉ định
+
+Ý nghĩa:Khoanh vùng và ép máychỉ tìm kiếm và trả kết quả dữ liệu bên trong một tên miền được chỉ định.
+
 Lợi ích: loại bỏ tên miền khác như quảng cáo ,diễn đàn
 
 Toán tử trừ-:
 Ý nghĩa Loại bỏ tất cả các kết quả chứa những từ khóa đi sau dấu trừ.
+
 Lợi ích: loại bỏ các bài đăng không liên quan đến HTML chính thống của mozilla
 
 Toán tử "":
-Ý nghĩa: buộc Google phải tìm kiếm chính xác 100% cụm từ nằm bên trong dấu ngoặc kép
-Lợi ích: Đi thẳng vào tiêu đề HTML chính thống của mozilla
+
+Ý nghĩa: buộc Google phải tìm kiếm chính xác 100% cụm từ nằm bên trong dấu ngoặc kép.
+
+Lợi ích: Đi thẳng vào tiêu đề HTML chính thống của mozilla.

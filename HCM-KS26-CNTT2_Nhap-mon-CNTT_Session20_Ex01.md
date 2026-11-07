@@ -10,7 +10,7 @@ Truy vấn trên là "Bad Query" (gây nhiễu) vì:
 
 **Viết lại truy vấn tối ưu**
 
-site:developer.mozilla.org html cơ bản -ads -forum
+site:developer.mozilla.org "html cơ bản" -ads -forum
 
 **Ý nghĩa và lợi ích của việc sử dụng các toán tử**
 
